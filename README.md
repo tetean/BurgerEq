@@ -6,3 +6,4 @@ to-do list:
 
 - [ ] 探究原函数
 - [ ] L2E计算
+- [ ] mergetest
